@@ -1,0 +1,1 @@
+larousse-api-sunbro==0.0.5          # Definitions from Larousse
